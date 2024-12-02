@@ -16,7 +16,7 @@ export const CTAButton = ({ className, onClick }: CTAButtonProps) => {
       )}
       onClick={onClick}
     >
-      Join the Program - $1,200
+      Sign up for the Course - $1,200
     </Button>
   );
 };
