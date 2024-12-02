@@ -35,7 +35,7 @@ const Index = () => {
             Ready to Transform Your Development Skills?
           </h2>
           <p className="text-lg text-muted-foreground mb-8">
-            Join hundreds of developers who have accelerated their careers with our program.
+            Learn from someone who has been doing this for 25+ years and is making the shift from traditional development to these new patterns.
           </p>
           <CTAButton />
         </div>
