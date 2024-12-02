@@ -10,7 +10,10 @@ export const Hero = () => {
       <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mb-12">
         Build Faster with Ai, No-Code and Low-Code Solutions like N8N, Cursor Ai and more.
       </p>
-      <CTAButton />
+      <div className="space-y-4">
+        <CTAButton />
+        <p className="text-muted-foreground text-lg">Live Training starts Jan 15, 2025</p>
+      </div>
     </div>
   );
 };
