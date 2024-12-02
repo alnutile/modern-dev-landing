@@ -2,7 +2,7 @@ import { CTAButton } from "./CTAButton";
 
 export const Hero = () => {
   return (
-    <div className="hero-gradient min-h-[90vh] flex flex-col items-center justify-center text-center px-4 py-20">
+    <div className="hero-gradient min-h-[70vh] flex flex-col items-center justify-center text-center px-4 py-16">
       <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-float flex flex-col">
         <span className="text-muted-foreground">Join Alfred Nutile at</span>
         <span className="gradient-text">DailyAi.Studio</span>
