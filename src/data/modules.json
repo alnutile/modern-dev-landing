@@ -1,0 +1,64 @@
+{
+  "modules": [
+    {
+      "number": 1,
+      "title": "The Modern Developer's Paradigm Shift",
+      "points": [
+        "Why traditional development alone isn't enough anymore",
+        "Real cost analysis: Traditional vs New Approach",
+        "Case studies showing dramatic time savings",
+        "Interactive assessment: What projects could you transform?"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "N8N as Your Backend Powerhouse",
+      "points": [
+        "Setting up your first N8N workflow",
+        "Authentication and user management",
+        "Database operations without code",
+        "Converting a traditional backend to N8N (hands-on project)"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "AI-Assisted Development with Cursor",
+      "points": [
+        "Setting up your AI-enhanced development environment",
+        "Using AI to tackle unfamiliar technologies",
+        "Practice project: Building a Chrome extension",
+        "Best practices for prompting and validation"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Modern UI Development with Loveable.dev",
+      "points": [
+        "Quick UI prototyping",
+        "Component-based development",
+        "Building responsive interfaces",
+        "Integration with N8N backends"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Real-World Projects",
+      "points": [
+        "Email processing system",
+        "Document management system",
+        "Customer feedback analyzer",
+        "Analytics dashboard"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Deployment and Scaling",
+      "points": [
+        "Hosting options for different architectures",
+        "Monitoring and maintenance",
+        "Cost optimization",
+        "Security considerations"
+      ]
+    }
+  ]
+}

@@ -4,33 +4,33 @@
 
 @layer base {
   :root {
-    --background: 280 40% 95%;
-    --foreground: 280 10% 10%;
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
     
-    --card: 0 0% 100%;
-    --card-foreground: 280 10% 10%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
     
-    --popover: 0 0% 100%;
-    --popover-foreground: 280 10% 10%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
     
     --primary: 280 50% 45%;
     --primary-foreground: 0 0% 100%;
     
-    --secondary: 280 40% 95%;
-    --secondary-foreground: 280 10% 10%;
+    --secondary: 240 10% 3.9%;
+    --secondary-foreground: 0 0% 98%;
     
-    --muted: 280 20% 90%;
-    --muted-foreground: 280 10% 40%;
+    --muted: 240 10% 3.9%;
+    --muted-foreground: 215 20.2% 65.1%;
     
     --accent: 280 60% 35%;
     --accent-foreground: 0 0% 100%;
     
     --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 100%;
+    --destructive-foreground: 0 0% 98%;
 
-    --border: 280 20% 90%;
-    --input: 280 20% 90%;
-    --ring: 280 50% 45%;
+    --border: 240 10% 3.9%;
+    --input: 240 10% 3.9%;
+    --ring: 240 10% 3.9%;
 
     --radius: 0.5rem;
   }
@@ -52,6 +52,10 @@
   
   .hero-gradient {
     @apply bg-gradient-to-br from-secondary via-background to-secondary/50;
+  }
+
+  .glass-morphism {
+    @apply backdrop-blur-xl bg-white/5 border border-white/10 shadow-[0_4px_12px_-2px_rgba(0,0,0,0.3)];
   }
 }
 
