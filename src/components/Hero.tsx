@@ -8,7 +8,7 @@ export const Hero = () => {
         <span className="gradient-text">DailyAi.Studio</span>
       </h1>
       <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mb-12">
-        Build Faster with AI, No-Code, and Low-Code Tools
+        Build Faster with Ai, No-Code and Low-Code Solutions like N8N, Cursor Ai and more.
       </p>
       <CTAButton />
     </div>
