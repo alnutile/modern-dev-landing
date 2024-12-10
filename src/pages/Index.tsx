@@ -5,6 +5,7 @@ import { ModuleCard } from "@/components/ModuleCard";
 import { ValueProps } from "@/components/ValueProp";
 import { CTAButton } from "@/components/CTAButton";
 import moduleData from "@/data/modules.json";
+import whyData from "@/data/why.json";
 
 const Index = () => {
   return (
@@ -28,9 +29,9 @@ const Index = () => {
 
       <section className="py-20 px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 gradient-text">
-          Why Choose This Program?
+          {whyData.title}
         </h2>
-        <ValueProps />
+        <ValueProps reasons={whyData.reasons} />
       </section>
 
       <section className="py-20 px-4 glass-morphism">

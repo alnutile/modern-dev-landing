@@ -18,7 +18,7 @@ export const CTAButton = ({ className, onClick }: CTAButtonProps) => {
       asChild
     >
       <a href="https://buy.stripe.com/28o00LbAN2f74dW8wx">
-        Sign up for the Course - $1,200
+        Sign up for the Course - $1,200 (Early bird)
       </a>
     </Button>
   );

@@ -1,143 +1,91 @@
 {
     "targetAudience": {
       "title": "Who This Course Is For",
-      "description": "Transform from a traditional developer into an AI-first solution architect",
+      "description": "Transform from writing custom code to building powerful automated solutions",
       "personas": [
         {
           "title": "Tech Leaders",
-          "description": "Development managers and team leads ready to transform their approach to solution delivery",
+          "description": "Development managers ready to embrace automation-first approaches using n8n and AI",
           "icon": "Users"
         },
         {
-          "title": "Senior Developers",
-          "description": "Experienced developers looking to evolve into AI-first solution architects",
+          "title": "Developers",
+          "description": "Developers looking to master n8n and automation tools instead of writing custom code",
           "icon": "Code"
         },
         {
           "title": "Solution Architects",
-          "description": "Technical architects ready to embrace AI-driven development practices",
+          "description": "Architects ready to design systems using n8n, automation tools, and AI integration",
           "icon": "Building"
         }
       ]
     },
     "transformationJourney": {
       "title": "Your Transformation Journey",
-      "description": "A clear path from traditional development to AI-first architecture",
+      "description": "A clear path from code-first to automation-first architecture",
       "stages": {
         "current": {
           "title": "Where You Are Now",
           "points": [
-            "Struggling with mounting technical debt",
-            "Teams bogged down by code maintenance",
-            "Traditional code-first development approach",
-            "Complex implementation cycles",
-            "Limited AI/automation integration"
+            "Writing custom code for every solution",
+            "Maintaining complex codebases",
+            "Long development cycles",
+            "Limited automation implementation",
+            "Minimal AI integration"
           ]
         },
         "future": {
           "title": "Where You'll Be",
           "points": [
-            "Leading AI-first solution architecture",
-            "Delivering solutions 10x faster",
-            "Confidently driving team transformation",
-            "Making strategic technical decisions",
-            "Building complex solutions without code"
+            "Building solutions rapidly with n8n",
+            "Creating complex workflows without code",
+            "Integrating AI into automation flows",
+            "Leading automation-first teams",
+            "Delivering solutions in days, not months"
           ]
         }
       }
     },
     "businessImpact": {
       "title": "Business Impact",
-      "description": "Measurable outcomes that transform your organization",
+      "description": "Measurable outcomes through automation",
       "impacts": [
         {
-          "title": "Accelerated Delivery",
-          "description": "Reduce solution delivery time by 90% through AI-first approaches",
+          "title": "Rapid Development",
+          "description": "Build in days with n8n what used to take months with custom code",
           "metric": "10x faster"
         },
         {
-          "title": "Reduced Costs",
-          "description": "Minimize maintenance burden and technical debt",
-          "metric": "60% savings"
+          "title": "Reduced Maintenance",
+          "description": "Less custom code means less maintenance and technical debt",
+          "metric": "70% reduction"
         },
         {
-          "title": "Team Innovation",
-          "description": "Enable your team to focus on high-value strategic work",
-          "metric": "3x productivity"
+          "title": "AI Integration",
+          "description": "Seamlessly incorporate AI into your automation workflows",
+          "metric": "100+ use cases"
         }
       ]
     },
     "corePhilosophy": {
       "title": "Core Philosophy",
-      "description": "Foundational principles that drive success",
+      "description": "Foundational principles of automation-first development",
       "principles": [
         {
-          "title": "AI-First Mindset",
-          "description": "Approach every challenge with automation and AI as the first solution, code as the last resort",
+          "title": "Automation-First Mindset",
+          "description": "Approach every challenge with n8n and automation tools before considering custom code",
           "icon": "Brain"
         },
         {
           "title": "Business Outcomes",
-          "description": "Focus on delivering business value over technical implementation details",
+          "description": "Focus on rapid delivery and business value through automated solutions",
           "icon": "TrendingUp"
         },
         {
-          "title": "Smart Composition",
-          "description": "Build faster through intelligent integration of AI services and automation tools",
+          "title": "Smart Integration",
+          "description": "Build faster through intelligent combination of n8n, AI, and automation tools",
           "icon": "Layers"
         }
       ]
-    },
-    "keyOutcomes": {
-      "title": "What You'll Achieve",
-      "description": "Concrete skills and capabilities you'll develop",
-      "outcomes": [
-        {
-          "title": "Team Leadership",
-          "points": [
-            "Lead AI transformation initiatives",
-            "Drive cultural change",
-            "Mentor team members"
-          ]
-        },
-        {
-          "title": "Technical Excellence",
-          "points": [
-            "Design AI-first architectures",
-            "Implement no-code solutions",
-            "Optimize development workflows"
-          ]
-        },
-        {
-          "title": "Business Impact",
-          "points": [
-            "Accelerate delivery speed",
-            "Reduce technical debt",
-            "Increase innovation capacity"
-          ]
-        }
-      ]
-    },
-    "successMetrics": {
-      "title": "Success Metrics",
-      "description": "Measurable indicators of transformation",
-      "metrics": [
-        {
-          "title": "Solution Delivery Speed",
-          "target": "10x faster delivery"
-        },
-        {
-          "title": "Technical Debt Reduction",
-          "target": "60% reduction"
-        },
-        {
-          "title": "Team Productivity",
-          "target": "3x increase"
-        },
-        {
-          "title": "Stakeholder Satisfaction",
-          "target": "95% satisfaction"
-        }
-      ]
     }
-  }
+}

@@ -1,35 +1,42 @@
-import { Clock, Users, Laptop } from "lucide-react";
-import { Card, CardContent } from "@/components/ui/card";
+import { Brain, Code2, Rocket, Users, Workflow, Bot, Zap } from 'lucide-react';
 
-interface ValuePropItemProps {
-  icon: React.ReactNode;
+const iconMap = {
+  Brain,
+  Code2,
+  Rocket,
+  Users,
+  Workflow,
+  Bot,
+  Zap
+};
+
+interface Reason {
+  icon: keyof typeof iconMap;
   title: string;
+  description: string;
 }
 
-const ValuePropItem = ({ icon, title }: ValuePropItemProps) => (
-  <Card className="border-none shadow-none bg-transparent">
-    <CardContent className="flex flex-col items-center text-center p-6">
-      <div className="mb-4 text-accent">{icon}</div>
-      <h3 className="text-lg font-semibold">{title}</h3>
-    </CardContent>
-  </Card>
-);
+interface ValuePropsProps {
+  reasons: Reason[];
+}
 
-export const ValueProps = () => {
+export const ValueProps = ({ reasons }: ValuePropsProps) => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto px-4">
-      <ValuePropItem
-        icon={<Clock className="w-12 h-12" />}
-        title="50-80% Faster Development"
-      />
-      <ValuePropItem
-        icon={<Users className="w-12 h-12" />}
-        title="Live Zoom Training"
-      />
-      <ValuePropItem
-        icon={<Laptop className="w-12 h-12" />}
-        title="Real-World Projects"
-      />
+    <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
+      {reasons.map((reason, index) => {
+        const Icon = iconMap[reason.icon];
+        return (
+          <div key={index} className="flex items-start space-x-4">
+            <div className="flex-shrink-0">
+              <Icon className="w-6 h-6 text-primary" />
+            </div>
+            <div>
+              <h3 className="text-xl font-semibold mb-2">{reason.title}</h3>
+              <p className="text-muted-foreground">{reason.description}</p>
+            </div>
+          </div>
+        );
+      })}
     </div>
   );
 };

@@ -1,4 +1,11 @@
+import { Users, Code, Building } from 'lucide-react';
 import { targetAudience } from '@/data/who_why_how.json';
+
+const iconMap = {
+  Users: Users,
+  Code: Code,
+  Building: Building,
+} as const;
 
 export function TargetAudience() {
   return (
@@ -13,7 +20,10 @@ export function TargetAudience() {
               className="text-center p-6 rounded-lg bg-card hover:bg-card/80 transition-all duration-200 border-2 border-[#D946EF] shadow-[0_0_15px_rgba(217,70,239,0.3)] hover:shadow-[0_0_20px_rgba(217,70,239,0.5)]"
             >
               <div className="mb-4 w-12 h-12 mx-auto bg-primary/10 rounded-full flex items-center justify-center">
-                {persona.icon}
+                {(() => {
+                  const IconComponent = iconMap[persona.icon as keyof typeof iconMap];
+                  return <IconComponent className="w-6 h-6 text-primary" />;
+                })()}
               </div>
               <h3 className="text-xl font-semibold mb-2 gradient-text">{persona.title}</h3>
               <p className="text-muted-foreground">{persona.description}</p>

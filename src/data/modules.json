@@ -2,68 +2,68 @@
   "modules": [
     {
       "number": 1,
-      "title": "Mindset Revolution",
+      "title": "Automation-First Mindset",
       "points": [
-        "Why code is technical debt",
-        "The evolution of solution delivery",
-        "Business value vs technical elegance",
-        "Real-world cost analysis of coding",
-        "Case studies of successful transformations"
+        "Why custom code should be your last resort",
+        "Understanding the n8n ecosystem",
+        "Mapping business processes to automation workflows",
+        "ROI analysis: Custom code vs automation tools",
+        "Success stories from n8n implementations"
       ]
     },
     {
       "number": 2,
-      "title": "Solution Architecture Thinking",
+      "title": "Solution Architecture with n8n",
       "points": [
-        "Business process analysis",
-        "Workflow-first thinking",
-        "Integration architecture",
-        "Decision framework for solutions",
-        "Modern solution hierarchy"
+        "n8n architecture fundamentals",
+        "Workflow-driven solution design",
+        "Integration patterns with n8n",
+        "When to use n8n vs other tools",
+        "Building scalable automation architectures"
       ]
     },
     {
       "number": 3,
-      "title": "No-Code API Development",
+      "title": "Advanced n8n Development",
       "points": [
-        "n8n fundamentals",
-        "API creation without code",
-        "Data transformation patterns",
-        "Workflow orchestration",
-        "Testing and monitoring"
+        "Complex workflow orchestration",
+        "Custom n8n nodes development",
+        "Data transformation techniques",
+        "Error handling and monitoring",
+        "Performance optimization strategies"
       ]
     },
     {
       "number": 4,
-      "title": "Security & Authentication",
+      "title": "Security in Automation",
       "points": [
-        "API security fundamentals",
-        "OAuth implementation",
-        "Access control",
-        "Secrets management",
-        "Compliance considerations"
+        "Securing n8n workflows",
+        "Authentication patterns",
+        "Role-based access control",
+        "Credentials management",
+        "Compliance in automation"
       ]
     },
     {
       "number": 5,
-      "title": "Advanced Automation",
+      "title": "AI Integration Patterns",
       "points": [
-        "Complex workflow patterns",
-        "Event-driven architectures",
-        "Database operations",
-        "Enterprise integration",
-        "Performance optimization"
+        "Incorporating AI into n8n workflows",
+        "LLM integration strategies",
+        "AI-assisted workflow design",
+        "Prompt engineering in automation",
+        "Hybrid AI-automation solutions"
       ]
     },
     {
       "number": 6,
-      "title": "AI Integration",
+      "title": "Enterprise Integration",
       "points": [
-        "AI agents in n8n",
-        "LLM integration patterns",
-        "AI-assisted development",
-        "Prompt engineering",
-        "Evolution planning"
+        "Scaling n8n in enterprise",
+        "Multi-environment deployments",
+        "Integration with legacy systems",
+        "Team collaboration patterns",
+        "Long-term maintenance strategies"
       ]
     }
   ]
