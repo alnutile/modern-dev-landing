@@ -1,4 +1,6 @@
 import { Hero } from "@/components/Hero";
+import { TargetAudience } from "@/components/WhoWhyHow/TargetAudience";
+import { TransformationJourney } from "@/components/WhoWhyHow/TransformationJourney";
 import { ModuleCard } from "@/components/ModuleCard";
 import { ValueProps } from "@/components/ValueProp";
 import { CTAButton } from "@/components/CTAButton";
@@ -8,6 +10,8 @@ const Index = () => {
   return (
     <div className="min-h-screen">
       <Hero />
+      <TargetAudience />
+      <TransformationJourney />
       
       <section className="py-20 px-4 glass-morphism">
         <div className="max-w-6xl mx-auto">

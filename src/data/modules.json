@@ -2,62 +2,68 @@
   "modules": [
     {
       "number": 1,
-      "title": "The Modern Developer's Paradigm Shift",
+      "title": "Mindset Revolution",
       "points": [
-        "Why traditional development alone isn't enough anymore",
-        "Real cost analysis: Traditional vs New Approach",
-        "Case studies showing dramatic time savings",
-        "Interactive assessment: What projects could you transform?"
+        "Why code is technical debt",
+        "The evolution of solution delivery",
+        "Business value vs technical elegance",
+        "Real-world cost analysis of coding",
+        "Case studies of successful transformations"
       ]
     },
     {
       "number": 2,
-      "title": "N8N as Your Backend Powerhouse",
+      "title": "Solution Architecture Thinking",
       "points": [
-        "Setting up your first N8N workflow",
-        "Authentication and user management",
-        "Database operations without code",
-        "Converting a traditional backend to N8N (hands-on project)"
+        "Business process analysis",
+        "Workflow-first thinking",
+        "Integration architecture",
+        "Decision framework for solutions",
+        "Modern solution hierarchy"
       ]
     },
     {
       "number": 3,
-      "title": "AI-Assisted Development with Cursor",
+      "title": "No-Code API Development",
       "points": [
-        "Setting up your AI-enhanced development environment",
-        "Using AI to tackle unfamiliar technologies",
-        "Practice project: Building a Chrome extension",
-        "Best practices for prompting and validation"
+        "n8n fundamentals",
+        "API creation without code",
+        "Data transformation patterns",
+        "Workflow orchestration",
+        "Testing and monitoring"
       ]
     },
     {
       "number": 4,
-      "title": "Modern UI Development with Loveable.dev",
+      "title": "Security & Authentication",
       "points": [
-        "Quick UI prototyping",
-        "Component-based development",
-        "Building responsive interfaces",
-        "Integration with N8N backends"
+        "API security fundamentals",
+        "OAuth implementation",
+        "Access control",
+        "Secrets management",
+        "Compliance considerations"
       ]
     },
     {
       "number": 5,
-      "title": "Real-World Projects",
+      "title": "Advanced Automation",
       "points": [
-        "Email processing system",
-        "Document management system",
-        "Customer feedback analyzer",
-        "Analytics dashboard"
+        "Complex workflow patterns",
+        "Event-driven architectures",
+        "Database operations",
+        "Enterprise integration",
+        "Performance optimization"
       ]
     },
     {
       "number": 6,
-      "title": "Deployment and Scaling",
+      "title": "AI Integration",
       "points": [
-        "Hosting options for different architectures",
-        "Monitoring and maintenance",
-        "Cost optimization",
-        "Security considerations"
+        "AI agents in n8n",
+        "LLM integration patterns",
+        "AI-assisted development",
+        "Prompt engineering",
+        "Evolution planning"
       ]
     }
   ]
