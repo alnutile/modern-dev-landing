@@ -15,7 +15,7 @@
         },
         {
           "title": "Architects",
-          "description": "• Architects ready to design systems using n8n, automation tools and AI integration.\n\n• Start your journey on the path to becoming a GenAI Architect. Learn how to approach creating end-to-end scalable and maintainable systems for automation and generative AI use cases.\n\n• Integrate n8n with existing systems, including existing AI systems (e.g. Langchain, RAG-based, etc.)",
+          "description": "• Design systems using n8n, automation tools and AI integration.\n\n• Start your journey on the path to becoming a GenAI Architect. Learn how to approach creating end-to-end scalable and maintainable systems for automation and generative AI use cases.\n\n• Integrate n8n with existing systems, including existing AI systems (e.g. Langchain, RAG-based, etc.)",
           "icon": "Building"
         }
       ]
