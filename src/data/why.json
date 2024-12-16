@@ -1,20 +1,20 @@
 {
-  "title": "Why Choose This Program?",
+  "title": "What's Included",
   "reasons": [
     {
-      "icon": "Workflow",
-      "title": "Master n8n",
-      "description": "Learn to build complex solutions using n8n's powerful automation capabilities."
+      "icon": "Video",
+      "title": "6 Modules of High Quality Recorded Video Lessons",
+      "description": "unlimited access"
     },
     {
-      "icon": "Bot",
-      "title": "AI Integration",
-      "description": "Understand how to incorporate AI services into your automation workflows."
+      "icon": "Code2",
+      "title": "Code samples and Github repos",
+      "description": "Access to all course materials and examples"
     },
     {
-      "icon": "Zap",
-      "title": "Rapid Development",
-      "description": "Build in days what used to take months using automation-first approaches."
+      "icon": "MessageSquare",
+      "title": "Live AMA (Ask me anything) sessions",
+      "description": "for participants"
     },
     {
       "icon": "Users",

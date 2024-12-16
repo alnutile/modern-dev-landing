@@ -1,4 +1,4 @@
-import { Brain, Code2, Rocket, Users, Workflow, Bot, Zap } from 'lucide-react';
+import { Brain, Code2, Rocket, Users, Workflow, Bot, Zap, Video, MessageSquare } from 'lucide-react';
 
 const iconMap = {
   Brain,
@@ -7,7 +7,9 @@ const iconMap = {
   Users,
   Workflow,
   Bot,
-  Zap
+  Zap,
+  Video,
+  MessageSquare
 };
 
 interface Reason {
