@@ -1,4 +1,5 @@
 import React from 'react';
+import { CTAButton } from '@/components/CTAButton';
 
 export function WhyTakeCourse() {
   return (
@@ -16,9 +17,15 @@ export function WhyTakeCourse() {
           </div>
           <div className="flex items-start gap-4">
             <span className="text-2xl">🎓</span>
-            <p className="text-lg text-muted-foreground">
-              Your career will thank you! Eventually, automation and AI will be mandatory tools in a developer's toolbox. <span className="font-semibold text-primary">Future-proof your career</span> now by taking this automation/AI-first journey and take full advantage while the others in the industry catch up.
-            </p>
+            <div className="space-y-6">
+              <p className="text-lg text-muted-foreground">
+                Your career will thank you! Eventually, automation and AI will be mandatory tools in a developer's toolbox. <span className="font-semibold text-primary">Future-proof your career</span> now by taking this automation/AI-first journey and take full advantage while the others in the industry catch up.
+              </p>
+              <div className="text-center">
+                <p className="text-lg font-semibold mb-4 text-primary">Future-proof your development career!</p>
+                <CTAButton />
+              </div>
+            </div>
           </div>
         </div>
       </div>
