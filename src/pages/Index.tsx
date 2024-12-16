@@ -16,13 +16,6 @@ const Index = () => {
       <WhyTakeCourse />
       <TransformationJourney />
       
-      <section className="py-20 px-4">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 gradient-text">
-          {whyData.title}
-        </h2>
-        <ValueProps reasons={whyData.reasons} />
-      </section>
-      
       <section className="py-20 px-4 glass-morphism">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 gradient-text">
@@ -34,6 +27,13 @@ const Index = () => {
             ))}
           </div>
         </div>
+      </section>
+
+      <section className="py-20 px-4">
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 gradient-text">
+          What's Included
+        </h2>
+        <ValueProps reasons={whyData.reasons} />
       </section>
 
       <section className="py-20 px-4 glass-morphism">
