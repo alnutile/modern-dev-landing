@@ -11,7 +11,7 @@ export function WhyTakeCourse() {
           <div className="flex items-start gap-4">
             <span className="text-2xl">💰</span>
             <p className="text-lg text-muted-foreground">
-              Your wallet will thank you! Did you know that developers that have specialist automation/AI skills can command a <span className="font-semibold text-primary">salary bump of 25% and higher</span>? <a href="https://www.dice.com/career-advice/ai-specialization-can-yield-a-huge-pay-premium" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-600 underline">[source]</a>
+              Your wallet will thank you! Did you know that developers that have specialist automation/AI skills can command a salary bump of <a href="https://www.dice.com/career-advice/ai-specialization-can-yield-a-huge-pay-premium" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-600 underline">25% and higher</a>?
             </p>
           </div>
           <div className="flex items-start gap-4">
