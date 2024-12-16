@@ -22,7 +22,7 @@ export function WhyTakeCourse() {
                 Your career will thank you! Eventually, automation and AI will be mandatory tools in a developer's toolbox. <span className="font-semibold text-primary">Future-proof your career</span> now by taking this automation/AI-first journey and take full advantage while the others in the industry catch up.
               </p>
               <div className="text-center">
-                <p className="text-lg font-semibold mb-4 text-primary">Future-proof your development career!</p>
+                <p className="text-lg font-semibold mb-4 text-primary">Lead the change rather than adapt to it!</p>
                 <CTAButton />
               </div>
             </div>
