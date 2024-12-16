@@ -12,6 +12,7 @@ const Index = () => {
     <div className="min-h-screen">
       <Hero />
       <TargetAudience />
+      <TransformationJourney />
       
       <section className="py-20 px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 gradient-text">
@@ -19,8 +20,6 @@ const Index = () => {
         </h2>
         <ValueProps reasons={whyData.reasons} />
       </section>
-
-      <TransformationJourney />
       
       <section className="py-20 px-4 glass-morphism">
         <div className="max-w-6xl mx-auto">
