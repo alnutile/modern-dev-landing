@@ -5,17 +5,17 @@
       "personas": [
         {
           "title": "Tech Leaders",
-          "description": "Development managers ready to embrace automation-first approaches using n8n and AI. Boost your hands-on technical skills and knowledge. Understand how to approach real-world business challenges using AI solutions. Learn how to assess potential AI use cases for technical feasibility, business value/ROI and risk. Become a key contributor in your organization's AI strategy and engineering framework, not just a bystander.",
+          "description": "• Development managers ready to embrace automation-first approaches using n8n and AI.\n\n• Boost your hands-on technical skills and knowledge.\n\n• Understand how to approach real-world business challenges using AI solutions.\n\n• Learn how to assess potential AI use cases for technical feasibility, business value/ROI and risk.\n\n• Become a key contributor in your organization's AI strategy and engineering framework, not just a bystander.",
           "icon": "Users"
         },
         {
           "title": "Developers",
-          "description": "Developers looking to master n8n and automation tools, instead of writing custom code, and speed up their software delivery. Learn how to identify potential automation in your workflows, pipeline and in the applications that you're building, and how to choose the most suitable LLM model, AI or automation tool for a particular project or use case. Become the \"go-to\" technical leader in your team for AI-related projects.",
+          "description": "• Developers looking to master n8n and automation tools, instead of writing custom code, and speed up their software delivery.\n\n• Learn how to identify potential automation in your workflows, pipeline and in the applications that you're building, and how to choose the most suitable LLM model, AI or automation tool for a particular project or use case.\n\n• Become the \"go-to\" technical leader in your team for AI-related projects.",
           "icon": "Code"
         },
         {
           "title": "Architects",
-          "description": "Architects ready to design systems using n8n, automation tools and AI integration. Start your journey on the path to becoming a GenAI Architect. Learn how to approach creating end-to-end scalable and maintainable systems for automation and generative AI use cases. Integrate n8n with existing systems, including existing AI systems (e.g. Langchain, RAG-based, etc.)",
+          "description": "• Architects ready to design systems using n8n, automation tools and AI integration.\n\n• Start your journey on the path to becoming a GenAI Architect. Learn how to approach creating end-to-end scalable and maintainable systems for automation and generative AI use cases.\n\n• Integrate n8n with existing systems, including existing AI systems (e.g. Langchain, RAG-based, etc.)",
           "icon": "Building"
         }
       ]
