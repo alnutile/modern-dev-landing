@@ -25,8 +25,8 @@ export function TargetAudience() {
                   return <IconComponent className="w-6 h-6 text-primary" />;
                 })()}
               </div>
-              <h3 className="text-xl font-semibold mb-2 gradient-text">{persona.title}</h3>
-              <p className="text-muted-foreground">{persona.description}</p>
+              <h3 className="text-xl font-semibold mb-4 gradient-text">{persona.title}</h3>
+              <p className="text-muted-foreground text-left whitespace-pre-line">{persona.description}</p>
             </div>
           ))}
         </div>
