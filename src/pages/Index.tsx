@@ -12,8 +12,8 @@ const Index = () => {
   return (
     <div className="min-h-screen">
       <Hero />
-      <WhyTakeCourse />
       <TargetAudience />
+      <WhyTakeCourse />
       <TransformationJourney />
       
       <section className="py-20 px-4">
