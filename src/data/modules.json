@@ -8,7 +8,8 @@
         "Understanding the n8n ecosystem",
         "Mapping business processes to automation workflows",
         "ROI analysis: Custom code vs automation tools",
-        "Success stories from n8n implementations"
+        "Success stories from n8n implementations",
+        "Hands-On Project: Build an API wrapper that provides the business co-code api and business supporting solution"
       ]
     },
     {
@@ -19,7 +20,8 @@
         "Workflow-driven solution design",
         "Integration patterns with n8n",
         "When to use n8n vs other tools",
-        "Building scalable automation architectures"
+        "Building scalable automation architectures",
+        "Hands-On Project: Use scraping to gather data from an existing site and modernize it with RAG, Hybrid Search, APIs driven by N8N and a great UI built in Cursor AI. Categorize the data"
       ]
     },
     {
@@ -30,7 +32,8 @@
         "Custom n8n nodes development",
         "Data transformation techniques",
         "Error handling and monitoring",
-        "Performance optimization strategies"
+        "Performance optimization strategies",
+        "Hands-On Project: Build complex AI Agent Tool Drive API to manage user interactions around meal planning, demonstrating the power of AI Agents and Tools"
       ]
     },
     {
@@ -41,7 +44,8 @@
         "Authentication patterns",
         "Role-based access control",
         "Credentials management",
-        "Compliance in automation"
+        "Compliance in automation",
+        "Hands-On Project: Build an Agentic System that will learn from its past success and feedback, integrating AI Tools from previous modules and External Workflows"
       ]
     },
     {
@@ -52,7 +56,8 @@
         "LLM integration strategies",
         "AI-assisted workflow design",
         "Prompt engineering in automation",
-        "Hybrid AI-automation solutions"
+        "Hybrid AI-automation solutions",
+        "Hands-On Project: Build a system using RAG and Natural Voice to take in coming voice calls and respond to you as you speak with the LLM. Use AI Agents to help understand and route calls when busy"
       ]
     },
     {
@@ -63,7 +68,8 @@
         "Multi-environment deployments",
         "Integration with legacy systems",
         "Team collaboration patterns",
-        "Long-term maintenance strategies"
+        "Long-term maintenance strategies",
+        "Hands-On Project: Deploy applications from Staging to Production with multiple workers and Redis as a Queue, demonstrating enterprise-scale deployment patterns"
       ]
     }
   ]
