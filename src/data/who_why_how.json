@@ -11,12 +11,12 @@
         {
           "title": "Developers",
           "description": "• Master n8n and automation tools, instead of writing custom code, and speed up their software delivery.\n\n• Learn how to identify potential automation in your workflows, pipeline and in the applications that you're building, and how to choose the most suitable LLM model, AI or automation tool for a particular project or use case.\n\n• Become the \"go-to\" technical leader in your team for AI-related projects.",
-          "icon": "Code"
+          "icon": "Code2"
         },
         {
           "title": "Architects",
           "description": "• Design systems using n8n, automation tools and AI integration.\n\n• Start your journey on the path to becoming a GenAI Architect. Learn how to approach creating end-to-end scalable and maintainable systems for automation and generative AI use cases.\n\n• Integrate n8n with existing systems, including existing AI systems (e.g. Langchain, RAG-based, etc.)",
-          "icon": "Building"
+          "icon": "Brain"
         }
       ]
     },
