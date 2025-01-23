@@ -1,7 +1,7 @@
 {
     "targetAudience": {
       "title": "Who This Course Is For",
-      "description": "Transform from writing custom code to building powerful automated solutions. Together we'll build six hands-on automation projects based on real-world examples",
+      "description": "Transform from writing custom code to building powerful automated solutions.\n\n<span class='text-primary'>Together we'll build six hands-on automation projects based on real-world examples</span>",
       "personas": [
         {
           "title": "Tech Leaders/Development Managers",
