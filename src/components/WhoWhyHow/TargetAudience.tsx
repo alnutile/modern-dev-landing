@@ -1,10 +1,10 @@
-import { Users, Code, Building } from 'lucide-react';
+import { Users, Code2, Brain } from 'lucide-react';
 import { targetAudience } from '@/data/who_why_how.json';
 
 const iconMap = {
-  Users: Users,
-  Code: Code,
-  Building: Building,
+  Users,
+  Code2,
+  Brain,
 } as const;
 
 export function TargetAudience() {
