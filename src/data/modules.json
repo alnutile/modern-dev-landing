@@ -2,7 +2,7 @@
   "modules": [
     {
       "number": 1,
-      "title": "Automation-First Mindset",
+      "title": "Code is Debt - why No Code and AI is key moving forward",
       "points": [
         "Why custom code should be your last resort",
         "Understanding the n8n ecosystem",
@@ -20,55 +20,47 @@
         "Workflow-driven solution design",
         "Integration patterns with n8n",
         "When to use n8n vs other tools",
-        "Building scalable automation architectures",
         "Hands-On Project: Use scraping to gather data from an existing site and modernize it with RAG, Hybrid Search, APIs driven by N8N and a great UI built in Cursor AI. Categorize the data"
       ]
     },
     {
       "number": 3,
-      "title": "Advanced n8n Development",
+      "title": "Advanced n8n Development and AI Agents",
       "points": [
-        "Complex workflow orchestration",
-        "Custom n8n nodes development",
-        "Data transformation techniques",
-        "Error handling and monitoring",
-        "Performance optimization strategies",
+        "Here we dig deep into the AI Agent",
+        "We look at Tools and the AI Agent and how it's a game changer",
+        "Code Less with the Tools Pattern",
+        "External Workflows",
         "Hands-On Project: Build complex AI Agent Tool Drive API to manage user interactions around meal planning, demonstrating the power of AI Agents and Tools"
       ]
     },
     {
       "number": 4,
-      "title": "Security in Automation",
+      "title": "Module 4 - Deep dive into AI Agents, Tools and N8N as an Agentic Framework",
       "points": [
-        "Securing n8n workflows",
-        "Authentication patterns",
-        "Role-based access control",
-        "Credentials management",
-        "Compliance in automation",
+        "What is Agentic and how can we use it",
+        "n8n as an Agentic Framework",
         "Hands-On Project: Build an Agentic System that will learn from its past success and feedback, integrating AI Tools from previous modules and External Workflows"
       ]
     },
     {
       "number": 5,
-      "title": "AI Integration Patterns",
+      "title": "Putting it all together once again Ai, Automations, And Integrations",
       "points": [
-        "Incorporating AI into n8n workflows",
-        "LLM integration strategies",
-        "AI-assisted workflow design",
-        "Prompt engineering in automation",
-        "Hybrid AI-automation solutions",
+        "Introducing Voice Ai",
+        "Reacting to Events",
+        "Smart Databases and Events",
         "Hands-On Project: Build a system using RAG and Natural Voice to take in coming voice calls and respond to you as you speak with the LLM. Use AI Agents to help understand and route calls when busy"
       ]
     },
     {
       "number": 6,
-      "title": "Enterprise Integration",
+      "title": "Production Deployments and Setup",
       "points": [
-        "Scaling n8n in enterprise",
-        "Multi-environment deployments",
-        "Integration with legacy systems",
-        "Team collaboration patterns",
-        "Long-term maintenance strategies",
+        "How to host these applications in confidence",
+        "Scaling with Redis and Workers",
+        "N8N as Serverless Drop in Replacement",
+        "Deployments Staging to Production",
         "Hands-On Project: Deploy applications from Staging to Production with multiple workers and Redis as a Queue, demonstrating enterprise-scale deployment patterns"
       ]
     }
