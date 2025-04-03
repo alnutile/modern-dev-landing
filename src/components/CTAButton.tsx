@@ -12,7 +12,7 @@ export const CTAButton = () => {
         )}
         asChild
       >
-        <a href="https://dailyaistudio.memberful.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://dailyaistudio.memberful.com/join" target="_blank" rel="noopener noreferrer">
           Become a Member & Join Forum
         </a>
       </Button>
