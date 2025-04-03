@@ -1,5 +1,7 @@
+
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import heroData from "../data/hero.json";
 
 interface CTAButtonProps {
   className?: string;
@@ -17,8 +19,8 @@ export const CTAButton = ({ className, onClick }: CTAButtonProps) => {
       onClick={onClick}
       asChild
     >
-      <a href="https://buy.stripe.com/28o00LbAN2f74dW8wx">
-        Sign up for the Course - $1,200 (Early bird)
+      <a href={heroData.ctaLink}>
+        Join the Forums & Coaching Program
       </a>
     </Button>
   );

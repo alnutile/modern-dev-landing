@@ -1,6 +1,10 @@
+
 {
     "titlePrefix": "Join Alfred Nutile at",
-    "titleMain": "DailyAi.Studio",
-    "description": "Master the art of building powerful solutions with n8n, automation tools, and AI. Learn to architect systems where low-code/no-code is the first choice, and custom code is the last resort. Transform your development approach and lead teams into the future of solution delivery.",
-    "startDate": "Training Course Release Date: April 09, 2025 (delayed from Feb 15th). With 12 months of new videos released with new techniques and strategies"
+    "titleMain": "Forums.DailyAi.Studio",
+    "description": "Access one-on-one coaching and join our community to stay updated with the latest AI techniques and patterns. Get personalized guidance from a professional who works with these technologies daily in real production environments.",
+    "videoId": "ssTdrUeUixE",
+    "consultingRate": "$225 per hour-long session",
+    "forumSubscription": "$5 per month after the first year",
+    "ctaLink": "https://dailyaistudio.circle.so/checkout/dailyaistudio-forums-and-discussions"
 }

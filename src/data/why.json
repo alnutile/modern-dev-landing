@@ -1,25 +1,26 @@
+
 {
   "title": "What's Included",
   "reasons": [
     {
       "icon": "Video",
-      "title": "6 Modules of High Quality Recorded Video Lessons",
-      "description": "Unlimited access to the course content"
+      "title": "One-on-One Coaching Sessions",
+      "description": "Personalized guidance from a professional working with these technologies daily"
     },
     {
       "icon": "Code2",
-      "title": "Code samples, N8N workflows and GitHub repos",
-      "description": "Access to all course materials and examples"
+      "title": "Real-World Examples & Code",
+      "description": "Access to practical examples and solutions from active projects"
     },
     {
       "icon": "MessageSquare",
-      "title": "Live AMA (Ask me anything) sessions",
-      "description": "Ask questions or we'll walk through examples"
+      "title": "Forum Access for a Full Year",
+      "description": "Join discussions and get your questions answered by the community"
     },
     {
       "icon": "Users",
-      "title": "Community Access",
-      "description": "Join a community of automation experts and share best practices."
+      "title": "Community Knowledge Sharing",
+      "description": "Learn from others' experiences and share your own insights"
     }
   ]
 }
