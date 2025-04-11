@@ -1,19 +1,8 @@
 
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { useToast } from "@/hooks/use-toast";
 
 export const CTAButton = () => {
-  const { toast } = useToast();
-
-  const handleMembershipClick = () => {
-    toast({
-      title: "Forum Access",
-      description: "Coming Monday the 14th of April",
-      duration: 5000,
-    });
-  };
-
   return (
     <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
       <Button
@@ -21,9 +10,15 @@ export const CTAButton = () => {
         className={cn(
           "bg-accent hover:bg-accent/90 text-white font-semibold px-8 py-6 text-lg transition-all duration-300 hover:scale-105"
         )}
-        onClick={handleMembershipClick}
+        asChild
       >
-        Become a Member and Get Forum Access
+        <a 
+          href="https://buy.stripe.com/4gw28TawJ8DvdOwcMP" 
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
+          Become a Member and Get Forum Access
+        </a>
       </Button>
       <Button
         size="lg"
